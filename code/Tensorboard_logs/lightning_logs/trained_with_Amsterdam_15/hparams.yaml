@@ -1,8 +1,0 @@
-input_channels: 2
-input_features: 16
-is_3d: false
-lr: 0.001
-num_classes: 3
-num_layers: 5
-use_normalization: true
-use_transpose: true
