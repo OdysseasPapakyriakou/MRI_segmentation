@@ -10,7 +10,7 @@ every combination from one to three institutions and tested
 on data again from every combination from one to three institutions.
 The three institutions are:
 1. Utrecht Medical Center (UMC)
-2. Vrije University Medica Center (VUmc) in Amsterdam
+2. Vrije University Medical Center (VUmc) in Amsterdam
 3. National University Health System (NUHS) in Singapore
 
 Results showed that training the U-net model on a combination 
